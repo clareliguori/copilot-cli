@@ -10,6 +10,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
 	github.com/fatih/structs v1.1.0
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/mock v1.6.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/uuid v1.3.0
@@ -21,7 +22,7 @@ require (
 	github.com/onsi/gomega v1.16.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/spf13/afero v1.6.0
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/xlab/treeprint v1.1.0
