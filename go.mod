@@ -12,7 +12,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/uuid v1.3.0
-	github.com/imdario/mergo v0.3.12
+	github.com/imdario/mergo v0.3.13
 	github.com/lnquy/cron v1.1.1
 	github.com/moby/buildkit v0.9.3
 	github.com/onsi/ginkgo v1.16.5
@@ -27,7 +27,7 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/text v0.3.7
 	gopkg.in/ini.v1 v1.66.4
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
